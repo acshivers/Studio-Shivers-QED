@@ -1,7 +1,7 @@
 # ❓ Domande Frequenti (FAQ) – Servizi Data Analysis & Engineering
 
 Benvenuto nella sezione FAQ. Qui trovi le risposte ai dubbi più comuni delle PMI che desiderano ottimizzare i propri processi e valorizzare i dati aziendali.
-### [Read the English version here](https://github.com/acshivers/Studio-Shivers-QED-Privacy-Policy-IT-/blob/1290336a5147fe7fe74d1a1d16a3d3c0afd9bab5/FAQ_Data_Services_EN.md)
+#### [Read the English version here](https://github.com/acshivers/Studio-Shivers-QED-Privacy-Policy-IT-/blob/1290336a5147fe7fe74d1a1d16a3d3c0afd9bab5/FAQ_Data_Services_EN.md)
 
 ---
 
