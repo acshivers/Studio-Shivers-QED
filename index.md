@@ -156,7 +156,7 @@ Per qualsiasi domanda relativa a questa informativa o al trattamento dei Suoi da
 
 *In accordance with Regulation (EU) 2016/679 (GDPR)*
 
-**Last updated:** 12 September 2026
+**Last updated:** 14 September 2026
 
 ---
 
