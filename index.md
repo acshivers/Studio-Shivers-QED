@@ -1,4 +1,4 @@
-# Informativa sulla Privacy  [Scroll down for English](https://github.com/acshivers/Studio-Shivers-QED/blob/docs/index.md#privacy-policy---english-version)
+# Informativa sulla Privacy  [English version](https://github.com/acshivers/Studio-Shivers-QED/blob/docs/index.md#privacy-policy---english-version)
 ## Studio Shivers QED
 
 *Ai sensi del Regolamento (UE) 2016/679 (GDPR) e del D.Lgs. 196/2003 (Codice Privacy), come modificato dal D.Lgs. 101/2018*
