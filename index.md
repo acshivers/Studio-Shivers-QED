@@ -151,7 +151,7 @@ Per qualsiasi domanda relativa a questa informativa o al trattamento dei Suoi da
 *Questo documento è un modello di base e non costituisce consulenza legale. Si raccomanda la revisione da parte di un legale o consulente privacy qualificato prima della pubblicazione, in particolare per quanto riguarda: nomina di un DPO (se applicabile), registro dei trattamenti, valutazioni d'impatto (DPIA) se necessarie, e clausole specifiche per trasferimenti extra-UE.*
 
 
-# Privacy Policy
+# Privacy Policy - English Version
 ## Studio Shivers QED
 
 *In accordance with Regulation (EU) 2016/679 (GDPR)*
