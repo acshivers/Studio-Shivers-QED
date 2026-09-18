@@ -117,7 +117,7 @@ Il nostro sito utilizza:
 
 Al primo accesso, Le verrà mostrato un banner cookie che Le permette di accettare o rifiutare secondo le Sue preferenze. Può modificare le Sue preferenze in qualsiasi momento tramite [link alle impostazioni cookie sotto costruzione].
 
-Per maggiori dettagli, consulti la nostra **Cookie Policy** separata [qui](PERMALINK)
+Per maggiori dettagli, consulti la nostra **Cookie Policy** separata.
 
 ---
 
