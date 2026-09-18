@@ -16,7 +16,7 @@ Arturo Crispin Shivers PL
 P.IVA: 03881300549
 REA: 373518
 Sede: Gubbio, Umbria, Italia
-Email: privacy@studioshiversqed.com
+Email: [privacy@studioshiversqed.com](mailto:privacy@studioshiversqed.com)
 Sito web: [www.studioshiversqed.com](https://www.studioshiversqed.com)
 
 Per qualsiasi richiesta relativa al trattamento dei Suoi dati personali, può contattarci ai recapiti sopra indicati.
@@ -143,7 +143,7 @@ Ci riserviamo il diritto di aggiornare questa informativa in qualsiasi momento. 
 
 Per qualsiasi domanda relativa a questa informativa o al trattamento dei Suoi dati:
 
-**Email:** [privacy@studioshiversqed.com]
+**Email:** [privacy@studioshiversqed.com](mailto:privacy@studioshiversqed.com)
 **Indirizzo:** via dell'Assino 210, 06024 Gubbio PG, Umbria, Italia
 
 ---
