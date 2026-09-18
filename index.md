@@ -115,9 +115,9 @@ Il nostro sito utilizza:
 - **Cookie analitici** (es. Google Analytics, in forma anonimizzata): richiedono consenso se non anonimizzati
 - **Cookie di terze parti/marketing**: richiedono consenso esplicito
 
-Al primo accesso, Le verrà mostrato un banner cookie che Le permette di accettare, rifiutare o personalizzare le Sue preferenze. Può modificare le Sue preferenze in qualsiasi momento tramite [link alle impostazioni cookie sotto costruzione].
+Al primo accesso, Le verrà mostrato un banner cookie che Le permette di accettare o rifiutare secondo le Sue preferenze. Può modificare le Sue preferenze in qualsiasi momento tramite [link alle impostazioni cookie sotto costruzione].
 
-Per maggiori dettagli, consulti la nostra **Cookie Policy** separata.
+Per maggiori dettagli, consulti la nostra **Cookie Policy** separata [qui](PERMALINK)
 
 ---
 
