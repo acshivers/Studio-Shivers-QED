@@ -101,9 +101,9 @@ Ai sensi degli Artt. 15-22 del GDPR, Lei ha diritto di:
 - **Opposizione**: opporsi al trattamento per finalità di marketing diretto o legittimo interesse
 - **Revoca del consenso**: in qualsiasi momento, senza pregiudicare la liceità del trattamento precedente
 
-Per esercitare questi diritti, può scrivere a: privacy@studioshiversqed.com
+Per esercitare questi diritti, può scrivere a: [privacy@studioshiversqed.com](mailto:privacy@studioshiversqed.com)
 
-Ha inoltre diritto di proporre reclamo all'Autorità Garante per la Protezione dei Dati Personali (www.garanteprivacy.it) qualora ritenga che il trattamento violi la normativa vigente.
+Ha inoltre diritto di proporre reclamo all'Autorità Garante per la Protezione dei Dati Personali o [GDPR](http://www.garanteprivacy.it) qualora ritenga che il trattamento violi la normativa vigente.
 
 ---
 
@@ -115,7 +115,7 @@ Il nostro sito utilizza:
 - **Cookie analitici** (es. Google Analytics, in forma anonimizzata): richiedono consenso se non anonimizzati
 - **Cookie di terze parti/marketing**: richiedono consenso esplicito
 
-Al primo accesso, Le verrà mostrato un banner cookie che Le permette di accettare, rifiutare o personalizzare le Sue preferenze. Può modificare le Sue preferenze in qualsiasi momento tramite [link alle impostazioni cookie].
+Al primo accesso, Le verrà mostrato un banner cookie che Le permette di accettare, rifiutare o personalizzare le Sue preferenze. Può modificare le Sue preferenze in qualsiasi momento tramite [link alle impostazioni cookie sotto costruzione].
 
 Per maggiori dettagli, consulti la nostra **Cookie Policy** separata.
 
@@ -169,8 +169,8 @@ Arturo Crispin Shivers PL
 VAT Number: 03881300549
 REA: 373518
 Registered office: Gubbio, Umbria, Italy
-Email: [privacy@studioshiversqed.com]
-Website: www.studioshiversqed.com
+Email: [privacy@studioshiversqed.com](mailto:privary@studioshiversqed.com)
+Website: [www.studioshiversqed.com](https://www.studioshiversqed.com)
 
 For any request regarding the processing of your personal data, you may contact us using the details above.
 
@@ -216,7 +216,7 @@ We collect different categories of personal data depending on how you interact w
 
 ## 4. How We Process Your Data
 
-Data is processed using IT and/or paper-based tools, with logic strictly related to the purposes stated above, and in a manner that ensures security and confidentiality through appropriate technical and organizational measures (encryption, restricted access, secure backups).
+Data is processed using IT and/or paper-based tools, with logic strictly related to the purposes stated above, and in a manner that ensures security and confidentiality through appropriate technical and organizational measures (encryption, restriced access, secure backups).
 
 ---
 
@@ -254,7 +254,7 @@ Under Articles 15–22 of the GDPR, you have the right to:
 - **Objection**: object to processing for direct marketing purposes or legitimate interest
 - **Withdraw consent**: at any time, without affecting the lawfulness of prior processing
 
-To exercise these rights, please write to: [privacy@studioshiversqed.com]
+To exercise these rights, please write to: [privacy@studioshiversqed.com](mailto:privacy@studioshiversqed.com)
 
 You also have the right to lodge a complaint with the Italian Data Protection Authority (Garante per la Protezione dei Dati Personali, www.garanteprivacy.it) or your local supervisory authority, if you believe the processing violates applicable law.
 
