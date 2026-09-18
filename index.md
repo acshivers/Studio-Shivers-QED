@@ -17,7 +17,7 @@ P.IVA: 03881300549
 REA: 373518
 Sede: Gubbio, Umbria, Italia
 Email: privacy@studioshiversqed.com
-Sito web: www.studioshiversqed.com
+Sito web: [www.studioshiversqed.com](https://www.studioshiversqed.com)
 
 Per qualsiasi richiesta relativa al trattamento dei Suoi dati personali, può contattarci ai recapiti sopra indicati.
 
